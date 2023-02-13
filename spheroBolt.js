@@ -1,3 +1,3 @@
-//Programmer: Gavin Butcher
-//Date:2.6.2023
-//Project: Sphero Bolt
+//Programmer: Gavin and Landon
+//Date:2.13.2023
+//Project: Team Programmer
